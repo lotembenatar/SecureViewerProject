@@ -1,4 +1,6 @@
 ## Secure display of sensitive documents project
 
-### Calender will be found here and some of the project code
+### Project files will be found here
+### Including calender, demos, documentations and diagrams
 
+### The project source code will be protected by Intel Corporation
