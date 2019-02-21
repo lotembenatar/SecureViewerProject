@@ -1,6 +1,8 @@
 ## Secure display of sensitive documents project
 
+![alt text](LogoStyled.png)
+
 ### Project files will be found here
 ### Including calender, demos, documentations and diagrams
 
-### The project source code will be protected by Intel Corporation
+#### The project source code will be protected by Intel Corporation
