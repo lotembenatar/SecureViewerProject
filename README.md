@@ -3,6 +3,8 @@
 ![alt text](LogoStyled.png)
 
 ### Project files will be found here
-### Including calender, demos, documentations and diagrams
+### Including Source code, documentations and diagrams
 
-#### The project source code will be protected by Intel Corporation
+Demo will be found here:
+
+https://youtu.be/u2ylUmj8BGw
